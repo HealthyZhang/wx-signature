@@ -1,0 +1,30 @@
+.zjk-signature {
+	height: 100%;
+	width: 100%;
+}
+
+.zjk-canvas_container {
+	background: #FFFFFF;
+	width: 100%;
+	height: 100%;
+}
+
+.zjk-main {
+	height: 100%;
+	width: 100%;
+}
+
+.zjk-tips {
+	font-size: 28rpx;
+	font-weight: 500;
+	color: #909090;
+	line-height: 70rpx;
+	padding-left: 25rpx;
+	box-sizing: border-box;
+}
+
+.zjk-canvas {
+	width: 100%;
+	height: 100%;
+	background: rgba(255, 255, 255, 0);
+}

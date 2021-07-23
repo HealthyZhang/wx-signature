@@ -1,0 +1,10 @@
+<view class="zjk-signature">
+  <view class="zjk-main">
+    <view class="zjk-canvas_container">
+      <text class="zjk-tips" wx:if="{{true}}">{{placeHolder}}</text>
+      <canvas class="zjk-canvas" id="zjk-signature" canvas-id="zjk-signature" disable-scroll="true" bindtouchstart="canvasStart"
+        bindtouchmove="canvasMove" bindtouchend="canvasEnd" touchcancel="canvasEnd"
+        binderror="canvasIdErrorCallback"></canvas>
+    </view>
+  </view>
+</view>
