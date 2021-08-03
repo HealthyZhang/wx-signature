@@ -37,3 +37,5 @@ npm install wx-signatrue
 ```
 
 7. **canvas画布大小根据signature外部包含的标签的大小而变动**
+
+8. [ 源码地址 ](https://github.com/HealthyZhang/wx-signature)
